@@ -26,7 +26,6 @@ group_emails.csv   集团公司邮箱
 tyc_dremove.py
 此脚本主要负责筛选 tyc_group.py 脚本对应的公司，此类公司可以额外关注，如有需求可以使用tyc_structure.py 进行股权爬取。
 
-BY:CT
 ```
 
 + /result
