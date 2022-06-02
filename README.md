@@ -2,6 +2,8 @@
 
 
 ## 使用指南：
+
+```
 需要网页登录天眼查后，替换脚本中的三个cookie。如果账号是淘宝临时的，当你在使用时别人登陆了，那么cookie会立马失效。执行完tyc_structure.py 和 tyc_group.py 对应域名和邮件拿出来去重即可食用。
 
 
@@ -25,8 +27,9 @@ tyc_dremove.py
 此脚本主要负责筛选 tyc_group.py 脚本对应的公司，此类公司可以额外关注，如有需求可以使用tyc_structure.py 进行股权爬取。
 
 BY:CT
+```
 
-/result
++ /result
 
 ![image](https://user-images.githubusercontent.com/48993128/171550824-bbe46156-2cbc-4fbd-b550-2febffe0a394.png)
 
